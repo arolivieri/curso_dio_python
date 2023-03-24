@@ -1,2 +1,2 @@
 # curso_dio_python
-repositorio curso dio python
+repositorio curso dio python inicial
